@@ -41,7 +41,7 @@ class Index extends React.Component {
           >
             <p>Select products to change their price temporarily.</p>
             <p><strong>Development purposes only, please do not use for production purposes</strong><br/>
-            Mann & Noble Auto-gifting app with Node, React and Polaris! 🎉
+            packaged with Node, React and Polaris! 🎉
             </p>
           </EmptyState>
         </Layout>
